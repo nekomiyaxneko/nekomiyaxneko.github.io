@@ -1,7 +1,12 @@
 ---
-title: 欢迎来到我的博客
+title: hello
+top: true
 ---
-# 简介
+
+![](\images\hello镇楼图.jpeg)
+<!--more-->
+
+# 欢迎来到我的博客
 hello，我是nekomiya。
 很高兴能在这里见到你。
 注册了`github`后发现听说有个`github pages`可以搭建个人博客，就决定来试试看。
@@ -9,7 +14,6 @@ hello，我是nekomiya。
  ~~不对，作业已经够多了~~
 由于刚刚使用博客，还不是很熟悉使用方法以及`markdown`的语法
 
-<!--more-->
 # 测试
 为了熟悉一些`markdown`的使用方法，我决定做一些小练习
 
