@@ -16,5 +16,4 @@ csdn blog:[nekomiyaxneko](https://blog.csdn.net/u013518064)
 email: 1434084180@qq.com
 
 支持：
-微信支付
-![微信](/images/微信收款码.png)
+大佬可以点击这里投食 [微信支付二维码](/images/微信收款码.png)
